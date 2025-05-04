@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there I'm Lakshman Duggirala, currently working as an Intern Analyst at University of Cincinnati - Graduate IT team. I have recently graduated from Masters in Business Analytics at the UC December 2024, Lindner College of Business. With a robust background in business intelligence from Deloitte Consulting and Unisys, I excel in transforming data into strategic insights. My toolkit includes SQL, Tableau, R, Python, and ServiceNow.
+
+Skilled in data integration, BI report generation, and process optimization, I thrive on using analytical insights to enhance operational efficiency and drive decision-making.
+
+Actively seeking opportunities to apply my data analytics expertise in roles that challenge and expand my skills.👋
 
 <!--
 **Lakshman207-Duggirala/Lakshman207-Duggirala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
