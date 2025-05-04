@@ -7,19 +7,21 @@
 
 ## 🚀 Projects
 
-- **[HeartSafe: Predicting Sudden Cardiac Arrest Risk](https://github.com/Lakshman207-Duggirala/heartsafe-sca-risk-prediction)**  
+- **[HeartSafe: Predicting Sudden Cardiac Arrest Risk](https://github.com/Lakshman207-Duggirala/HeartSafe-Predicting-Sudden-Cardiac-Arrest-Risk)**  
   Python project analyzing patient vitals and predicting SCA risk using KNN classification.
 
-- **[FlightSafe: FAA Aircraft Performance Analysis](https://github.com/Lakshman207-Duggirala/flightsafe-aircraft-analysis)**  
+- **[FlightSafe: Exploratory and Statistical Analysis of Aircraft Performance Data](https://github.com/Lakshman207-Duggirala/FlightSafe-Exploratory-and-Statistical-Analysis-of-Aircraft-Performance-Data)**  
   R-based analysis of FAA aircraft data including regression modeling and anomaly detection.
 
 - **[Foodelicious Growth Opportunity](https://github.com/Lakshman207-Duggirala/foodelicious-growth-project)**  
   Data wrangling and demographic-focused revenue gap analysis for a national grocery chain.
 
-- **[Wine Quality Statistical Analysis](https://github.com/Lakshman207-Duggirala/wine-quality-analysis)**  
+- **[Wine Quality Statistical Analysis](https://github.com/Lakshman207-Duggirala/Wine-Quality-Statistical-Analysis)**  
   Statistical modeling and prediction using EDA, MLE, and hypothesis testing on wine datasets.
 
----
+- **[Cincinnati Reds: Data Assessment](https://github.com/Lakshman207-Duggirala/Cincinnati-Reds-Assessment)**  
+  Sports analytics and performance-based data exploration for the Cincinnati Reds baseball team.
+
 
 ## 🛠️ Skills
 
